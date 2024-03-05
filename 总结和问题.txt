@@ -1,0 +1,28 @@
+1、FPGA中如果使用高电平复位，always语句中要注意，要采复位上升沿
+
+	例如：	always @ （posedge clk，posedge reset） begin
+
+		end
+	
+
+2、在FPGA例化中，输出的端口不能外接取反信号
+
+	例如：	wire locked;
+			wire reset;
+			
+			/*错误写法*/
+			get_clk  GET_CLK(
+				.reset(reset),  
+				.lvds_clk(LVDS_CLK), 
+				.locked(!reset)
+			; 
+			
+			/*正确写法*/
+			get_clk  GET_CLK(
+				.reset(reset),  
+				.lvds_clk(LVDS_CLK), 
+				.locked(locked)
+			; 
+			assign reset = !locked;
+			
+3、如果要使用PLL，不建议直接调用PLL 的 IP ，可以使用PLL的源码

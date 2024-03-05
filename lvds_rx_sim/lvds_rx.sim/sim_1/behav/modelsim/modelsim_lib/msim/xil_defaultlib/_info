@@ -1,0 +1,173 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.sim/sim_1/behav/modelsim
+T_opt
+!s110 1709539630
+V_j4ZCMWo8j0ohiIW^b_?L3
+04 15 4 work tb_lvds_rx_data fast 0
+04 4 4 work glbl fast 0
+=5-d85ed37079e3-65e5812e-237-1cfc
+o-quiet -auto_acc_if_foreign -work xil_defaultlib -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+vclk_wiz_0
+Z2 !s110 1709539627
+!i10b 1
+!s100 P;[H>AJi<PnFi5kFHZ]<S2
+IG4@5mbnHf;kZUCL01Q1@I3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1708496495
+8E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v
+FE:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v
+L0 70
+Z5 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z6 !s108 1709539627.000000
+!s107 E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v|
+!s90 -reportprogress|300|-work|xil_defaultlib|+incdir+../../../../lvds_rx.srcs/sources_1/ip/clk_wiz_0|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v|
+!i113 0
+Z7 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 !s92 -work xil_defaultlib +incdir+../../../../lvds_rx.srcs/sources_1/ip/clk_wiz_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vclk_wiz_0_clk_wiz
+R2
+!i10b 1
+!s100 H<;:RXfU[zz46kj8`m^9P0
+I[UX3LN:BDUEE8:]]9Rm^n2
+R3
+R0
+R4
+8E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v
+FE:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v
+L0 68
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v|
+!s90 -reportprogress|300|-work|xil_defaultlib|+incdir+../../../../lvds_rx.srcs/sources_1/ip/clk_wiz_0|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v|
+!i113 0
+R7
+R8
+R1
+vexpand_flag
+R2
+!i10b 1
+!s100 I<fQZde36FRgihj;LaZY32
+Ij_eR3OL2ed8_IY@g9EQjl3
+R3
+R0
+w1708593924
+8E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/new/expand_flag.v
+FE:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/new/expand_flag.v
+Z9 L0 23
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/new/expand_flag.v|
+!s90 -reportprogress|300|-work|xil_defaultlib|+incdir+../../../../lvds_rx.srcs/sources_1/ip/clk_wiz_0|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/new/expand_flag.v|
+!i113 0
+R7
+R8
+R1
+vget_clk
+R2
+!i10b 1
+!s100 XGG^SBI=dz1b;jlW@4NbJ2
+I`oYU`;n>?h]Om5F2RjBG?3
+R3
+R0
+w1708588746
+8E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/new/get_clk.v
+FE:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/new/get_clk.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/new/get_clk.v|
+!s90 -reportprogress|300|-work|xil_defaultlib|+incdir+../../../../lvds_rx.srcs/sources_1/ip/clk_wiz_0|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/new/get_clk.v|
+!i113 0
+R7
+R8
+R1
+vglbl
+R2
+!i10b 1
+!s100 JWZ^meD<P7inSF0<1SiO32
+I]gC5nTnN@Lj1Pz=:?]TBJ2
+R3
+R0
+w1544155481
+8E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.sim/sim_1/behav/modelsim/glbl.v
+FE:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.sim/sim_1/behav/modelsim/glbl.v
+L0 6
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.sim/sim_1/behav/modelsim/glbl.v|
+!s90 -reportprogress|300|-work|xil_defaultlib|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.sim/sim_1/behav/modelsim/glbl.v|
+!i113 0
+R7
+R1
+vlvds_rx_data
+Z10 !s110 1709539628
+!i10b 1
+!s100 7nC3VFR`AX`>OH?S3;6h[0
+I7Mj7fz50kXbBL`fFnQR?P3
+R3
+R0
+w1709283379
+8E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/new/lvds_rx_data.v
+FE:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/new/lvds_rx_data.v
+R9
+R5
+r1
+!s85 0
+31
+Z11 !s108 1709539628.000000
+!s107 E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/new/lvds_rx_data.v|
+!s90 -reportprogress|300|-work|xil_defaultlib|+incdir+../../../../lvds_rx.srcs/sources_1/ip/clk_wiz_0|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sources_1/new/lvds_rx_data.v|
+!i113 0
+R7
+R8
+R1
+vtb_lvds_rx_data
+R10
+!i10b 1
+!s100 jYd5O@3f3N7:i@mbhh[ml2
+I<lL2;[`Bl?k838A<j^3NF3
+R3
+R0
+w1709539504
+8E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sim_1/new/tb_lvds_rx_data.v
+FE:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sim_1/new/tb_lvds_rx_data.v
+R9
+R5
+r1
+!s85 0
+31
+R11
+!s107 E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sim_1/new/tb_lvds_rx_data.v|
+!s90 -reportprogress|300|-work|xil_defaultlib|+incdir+../../../../lvds_rx.srcs/sources_1/ip/clk_wiz_0|-L|mtiAvm|-L|mtiRnm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|-L|infact|E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.srcs/sim_1/new/tb_lvds_rx_data.v|
+!i113 0
+R7
+R8
+R1

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Mar  4 16:02:31 2024
+# Process ID: 11956
+# Current directory: E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.runs/synth_1
+# Command line: vivado.exe -log lvds_rx_data.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lvds_rx_data.tcl
+# Log file: E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.runs/synth_1/lvds_rx_data.vds
+# Journal file: E:/my_work/Horizon_lvds/lvds_rx_sim/lvds_rx.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source lvds_rx_data.tcl -notrace
